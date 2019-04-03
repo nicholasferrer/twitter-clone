@@ -8,3 +8,9 @@ In the frontend directory, you must run:
 
 ### `yarn start`
 
+
+## Login page
+![login page](https://github.com/nicholasferrer/twitter-clone/blob/master/img/login.png)
+
+## Timeline page
+![timeline page](https://github.com/nicholasferrer/twitter-clone/blob/master/img/timeline.png)
